@@ -1,0 +1,7 @@
+Homebrew 1.8.0
+Homebrew/homebrew-core (git revision e66b; last commit 2018-10-28)
+Homebrew/homebrew-cask (git revision e796; last commit 2018-10-28)
+
+Python 3.7.0
+
+pipenv, version 2018.10.13
